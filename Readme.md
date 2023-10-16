@@ -1,0 +1,1 @@
+Para subir un proyecto a Git hay que usar el comando git add para añadir los cambios de nuestros archivos al "stage", luego con el comando git commit -m confirmamos los cambios añadiendo un comentario descriptivo, y finalmente utilizamos git push para incorporar los cambios confirmados al proyecto global.
